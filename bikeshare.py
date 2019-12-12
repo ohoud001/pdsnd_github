@@ -26,7 +26,7 @@ def get_filters():
 
 
     print('-'*40)
-    return city, month, day
+    return CITY, MONTH, DAY
 
 
 def load_data(city, month, day):
